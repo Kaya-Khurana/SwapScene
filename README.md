@@ -78,6 +78,10 @@ Contributions, issues, and feature requests are welcome! Feel free to check [iss
 Your Name
 - GitHub: https://github.com/kaya-khurana
 
+# ScreenShot
+![Screenshot 2025-06-02 233045](https://github.com/user-attachments/assets/671ef083-68a8-44ff-9529-7aba261f0d98)
+
+
 ## 🌟 Show your support
 
 Give a ⭐️ if this project helped you!
